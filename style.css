@@ -1,0 +1,51 @@
+body {
+    background-color: #374823 !important;
+    height: 100%;
+    width: 100%;
+    margin: 0 !important;
+    padding: 0 !important;
+    font-family: "Funnel Display", 
+    sans-serif !important;
+    color: rgb(129, 227, 142) !important;
+}
+
+.left {
+    text-align: left !important;
+}
+
+.cen {
+    text-align: center !important;
+}
+
+/* Alternative to <i> */
+.ital {
+    font-style: italic;
+}
+
+.margin {
+    margin: 15px !important;
+}
+
+
+/* For Bolder yet Playful Vibes */
+.sour_gummy {
+    font-family: Sour gummy !important;
+    color: #2a4011 !important;
+}
+
+#footer {
+    background-color: rgb(185, 255, 188);
+    left: 0;
+    bottom: 0;
+    width: 100%;
+    text-align: center;
+    height: 40px !important;
+    display: flex !important;
+    position: fixed !important;
+    align-items: center !important;
+    justify-content: center !important;
+    color: rgb(39, 72, 31);
+}
+
+
+
